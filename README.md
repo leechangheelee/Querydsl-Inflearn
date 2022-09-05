@@ -9,3 +9,4 @@
   * https://github.com/leechangheelee/Querydsl-Inflearn/blob/main/Querydsl-설정과-검증.md
   * https://github.com/leechangheelee/Querydsl-Inflearn/blob/main/라이브러리-살펴보기.md
   * https://github.com/leechangheelee/Querydsl-Inflearn/blob/main/H2-데이터베이스-설치.md
+  * https://github.com/leechangheelee/Querydsl-Inflearn/blob/main/스프링-부트-설정-JPA-DB.md
