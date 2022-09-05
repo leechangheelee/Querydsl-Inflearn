@@ -10,3 +10,8 @@
   * https://github.com/leechangheelee/Querydsl-Inflearn/blob/main/라이브러리-살펴보기.md
   * https://github.com/leechangheelee/Querydsl-Inflearn/blob/main/H2-데이터베이스-설치.md
   * https://github.com/leechangheelee/Querydsl-Inflearn/blob/main/스프링-부트-설정-JPA-DB.md
+
+## **예제 도메인 모델**
+![image](https://user-images.githubusercontent.com/79301439/188392909-b8ab6147-a5bf-48b3-8099-fb79e3aea49f.png)
+
+  * https://github.com/leechangheelee/Querydsl-Inflearn/blob/main/예제-도메인-모델과-동작확인.md
