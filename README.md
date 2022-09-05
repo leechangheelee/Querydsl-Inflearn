@@ -6,3 +6,4 @@
 ![image](https://user-images.githubusercontent.com/79301439/188359285-7c6ecb46-8d63-484f-8706-4ba328b88b80.png)
 
   * https://github.com/leechangheelee/Querydsl-Inflearn/blob/main/프로젝트-생성.md
+  * https://github.com/leechangheelee/Querydsl-Inflearn/blob/main/Querydsl-설정과-검증.md
