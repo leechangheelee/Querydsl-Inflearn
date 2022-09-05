@@ -15,3 +15,6 @@
 ![image](https://user-images.githubusercontent.com/79301439/188392909-b8ab6147-a5bf-48b3-8099-fb79e3aea49f.png)
 
   * https://github.com/leechangheelee/Querydsl-Inflearn/blob/main/예제-도메인-모델과-동작확인.md
+
+## **기본 문법**
+![image](https://user-images.githubusercontent.com/79301439/188402374-c500ee58-e744-4478-9eac-5de332fae26f.png)
