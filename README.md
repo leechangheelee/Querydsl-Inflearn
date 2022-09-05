@@ -20,3 +20,4 @@
 ![image](https://user-images.githubusercontent.com/79301439/188402374-c500ee58-e744-4478-9eac-5de332fae26f.png)
 
   * https://github.com/leechangheelee/Querydsl-Inflearn/blob/main/시작-JPQL-vs-Querydsl.md
+  * https://github.com/leechangheelee/Querydsl-Inflearn/blob/main/기본-Q-Type-활용.md
