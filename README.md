@@ -22,3 +22,4 @@
   * https://github.com/leechangheelee/Querydsl-Inflearn/blob/main/시작-JPQL-vs-Querydsl.md
   * https://github.com/leechangheelee/Querydsl-Inflearn/blob/main/기본-Q-Type-활용.md
   * https://github.com/leechangheelee/Querydsl-Inflearn/blob/main/검색-조건-쿼리.md
+  * https://github.com/leechangheelee/Querydsl-Inflearn/blob/main/결과-조회.md
