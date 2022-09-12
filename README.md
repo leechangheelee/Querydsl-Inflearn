@@ -25,3 +25,4 @@
   * https://github.com/leechangheelee/Querydsl-Inflearn/blob/main/결과-조회.md
   * https://github.com/leechangheelee/Querydsl-Inflearn/blob/main/정렬.md
   * https://github.com/leechangheelee/Querydsl-Inflearn/blob/main/페이징.md
+  * https://github.com/leechangheelee/Querydsl-Inflearn/blob/main/집합.md
