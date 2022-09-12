@@ -27,3 +27,4 @@
   * https://github.com/leechangheelee/Querydsl-Inflearn/blob/main/페이징.md
   * https://github.com/leechangheelee/Querydsl-Inflearn/blob/main/집합.md
   * https://github.com/leechangheelee/Querydsl-Inflearn/blob/main/조인-기본-조인.md
+  * https://github.com/leechangheelee/Querydsl-Inflearn/blob/main/조인-on절.md
