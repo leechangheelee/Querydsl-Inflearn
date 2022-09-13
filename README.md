@@ -32,3 +32,6 @@
   * https://github.com/leechangheelee/Querydsl-Inflearn/blob/main/서브-쿼리.md
   * https://github.com/leechangheelee/Querydsl-Inflearn/blob/main/Case-문.md
   * https://github.com/leechangheelee/Querydsl-Inflearn/blob/main/상수-문자-더하기.md
+
+## **중급 문법**
+![image](https://user-images.githubusercontent.com/79301439/189857441-42a97cb4-773a-49e4-84bf-e07be51304d3.png)
