@@ -35,3 +35,5 @@
 
 ## **중급 문법**
 ![image](https://user-images.githubusercontent.com/79301439/189857441-42a97cb4-773a-49e4-84bf-e07be51304d3.png)
+
+  * https://github.com/leechangheelee/Querydsl-Inflearn/blob/main/프로젝션과-결과-반환-기본.md
