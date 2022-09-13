@@ -30,3 +30,4 @@
   * https://github.com/leechangheelee/Querydsl-Inflearn/blob/main/조인-on절.md
   * https://github.com/leechangheelee/Querydsl-Inflearn/blob/main/조인-페치-조인.md
   * https://github.com/leechangheelee/Querydsl-Inflearn/blob/main/서브-쿼리.md
+  * https://github.com/leechangheelee/Querydsl-Inflearn/blob/main/Case-문.md
