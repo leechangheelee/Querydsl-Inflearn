@@ -77,6 +77,8 @@ public void findDtoByField() {
 ![image](https://user-images.githubusercontent.com/79301439/189929973-0348aab1-e13c-4f62-b6e1-aebe303376f7.png)
 
 ```java
+package study.querydsl.dto;
+
 import lombok.Data;
 
 @Data
