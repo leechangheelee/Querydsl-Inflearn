@@ -42,3 +42,4 @@
   * https://github.com/leechangheelee/Querydsl-Inflearn/blob/main/동적-쿼리-BooleanBuilder-사용.md
   * https://github.com/leechangheelee/Querydsl-Inflearn/blob/main/동적-쿼리-Where-다중-파라미터-사용.md
   * https://github.com/leechangheelee/Querydsl-Inflearn/blob/main/수정-삭제-벌크-연산.md
+  * https://github.com/leechangheelee/Querydsl-Inflearn/blob/main/SQL-function-호출하기.md
