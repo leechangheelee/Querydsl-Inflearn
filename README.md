@@ -38,3 +38,4 @@
 
   * https://github.com/leechangheelee/Querydsl-Inflearn/blob/main/프로젝션과-결과-반환-기본.md
   * https://github.com/leechangheelee/Querydsl-Inflearn/blob/main/프로젝션과-결과-반환-DTO-조회.md
+  * https://github.com/leechangheelee/Querydsl-Inflearn/blob/main/프로젝션과-결과-반환-@QueryProjection.md
