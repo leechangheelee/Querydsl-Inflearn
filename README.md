@@ -43,3 +43,6 @@
   * https://github.com/leechangheelee/Querydsl-Inflearn/blob/main/동적-쿼리-Where-다중-파라미터-사용.md
   * https://github.com/leechangheelee/Querydsl-Inflearn/blob/main/수정-삭제-벌크-연산.md
   * https://github.com/leechangheelee/Querydsl-Inflearn/blob/main/SQL-function-호출하기.md
+
+## **실무 활용 - 순수 JPA와 Querydsl**
+![image](https://user-images.githubusercontent.com/79301439/190890016-413243b1-5245-4bba-8067-bf6f31ef6513.png)
