@@ -46,3 +46,5 @@
 
 ## **실무 활용 - 순수 JPA와 Querydsl**
 ![image](https://user-images.githubusercontent.com/79301439/190890016-413243b1-5245-4bba-8067-bf6f31ef6513.png)
+
+  * https://github.com/leechangheelee/Querydsl-Inflearn/blob/main/순수-JPA-리포지토리와-Querydsl.md
