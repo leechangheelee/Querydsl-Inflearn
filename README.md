@@ -65,3 +65,4 @@
 ![image](https://user-images.githubusercontent.com/79301439/191430090-db839f8c-0853-414d-89d4-2d190c2d253e.png)
 
   * https://github.com/leechangheelee/Querydsl-Inflearn/blob/main/인터페이스-지원-QuerydslPredicateExecutor.md
+  * https://github.com/leechangheelee/Querydsl-Inflearn/blob/main/Querydsl-Web-지원.md
