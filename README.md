@@ -57,3 +57,4 @@
 
   * https://github.com/leechangheelee/Querydsl-Inflearn/blob/main/스프링-데이터-JPA-리포지토리로-변경.md
   * https://github.com/leechangheelee/Querydsl-Inflearn/blob/main/사용자-정의-리포지토리.md
+  * https://github.com/leechangheelee/Querydsl-Inflearn/blob/main/스프링-데이터-페이징-활용1-Querydsl-페이징-연동.md
