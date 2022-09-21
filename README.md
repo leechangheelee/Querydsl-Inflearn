@@ -54,3 +54,5 @@
 
 ## **실무 활용 - 스프링 데이터 JPA와 Querydsl**
 ![image](https://user-images.githubusercontent.com/79301439/191400934-88c5ca85-0aeb-4b43-993a-3055ee83eebf.png)
+
+  * https://github.com/leechangheelee/Querydsl-Inflearn/blob/main/스프링-데이터-JPA-리포지토리로-변경.md
