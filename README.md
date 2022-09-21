@@ -51,3 +51,6 @@
   * https://github.com/leechangheelee/Querydsl-Inflearn/blob/main/동적-쿼리와-성능-최적화-조회-Builder-사용.md
   * https://github.com/leechangheelee/Querydsl-Inflearn/blob/main/동적-쿼리와-성능-최적화-조회-Where절-파라미터-사용.md
   * https://github.com/leechangheelee/Querydsl-Inflearn/blob/main/조회-API-컨트롤러-개발.md
+
+## **실무 활용 - 스프링 데이터 JPA와 Querydsl**
+![image](https://user-images.githubusercontent.com/79301439/191400934-88c5ca85-0aeb-4b43-993a-3055ee83eebf.png)
