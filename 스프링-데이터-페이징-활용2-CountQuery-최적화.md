@@ -4,7 +4,7 @@
 
 ```java
 @Override
-public Page<MemberTeamDto> searchPageComplex2(MemberSearchCondition condition, Pageable pageable) {
+public Page<MemberTeamDto> searchPageComplex(MemberSearchCondition condition, Pageable pageable) {
     List<MemberTeamDto> content = queryFactory
             .select(new QMemberTeamDto(
                     member.id,
