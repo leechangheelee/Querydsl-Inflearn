@@ -60,3 +60,8 @@
   * https://github.com/leechangheelee/Querydsl-Inflearn/blob/main/스프링-데이터-페이징-활용1-Querydsl-페이징-연동.md
   * https://github.com/leechangheelee/Querydsl-Inflearn/blob/main/스프링-데이터-페이징-활용2-CountQuery-최적화.md
   * https://github.com/leechangheelee/Querydsl-Inflearn/blob/main/스프링-데이터-페이징-활용3-컨트롤러-개발.md
+
+## **스프링 데이터 JPA가 제공하는 Querydsl 기능**
+![image](https://user-images.githubusercontent.com/79301439/191430090-db839f8c-0853-414d-89d4-2d190c2d253e.png)
+
+  * https://github.com/leechangheelee/Querydsl-Inflearn/blob/main/인터페이스-지원-QuerydslPredicateExecutor.md
