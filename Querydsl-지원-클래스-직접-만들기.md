@@ -154,6 +154,7 @@ public class MemberTestRepository extends Querydsl4RepositorySupport {
         return PageableExecutionUtils.getPage(content, pageable, query::fetchCount);
     }
 
+    //개선 버전
     public Page<Member> applyPagination(MemberSearchCondition condition, Pageable pageable) {
         return applyPagination(pageable, query -> query
                 .selectFrom(member)
@@ -167,6 +168,7 @@ public class MemberTestRepository extends Querydsl4RepositorySupport {
         );
     }
 
+    //개선 버전(count 쿼리 별도 구성)
     public Page<Member> applyPagination2(MemberSearchCondition condition, Pageable pageable) {
         return applyPagination(pageable, contentQuery -> contentQuery
                 .selectFrom(member)
