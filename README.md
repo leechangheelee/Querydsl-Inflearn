@@ -59,3 +59,4 @@
   * https://github.com/leechangheelee/Querydsl-Inflearn/blob/main/사용자-정의-리포지토리.md
   * https://github.com/leechangheelee/Querydsl-Inflearn/blob/main/스프링-데이터-페이징-활용1-Querydsl-페이징-연동.md
   * https://github.com/leechangheelee/Querydsl-Inflearn/blob/main/스프링-데이터-페이징-활용2-CountQuery-최적화.md
+  * https://github.com/leechangheelee/Querydsl-Inflearn/blob/main/스프링-데이터-페이징-활용3-컨트롤러-개발.md
