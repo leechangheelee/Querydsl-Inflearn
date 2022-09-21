@@ -68,3 +68,8 @@
   * https://github.com/leechangheelee/Querydsl-Inflearn/blob/main/Querydsl-Web-지원.md
   * https://github.com/leechangheelee/Querydsl-Inflearn/blob/main/리포지토리-지원-QuerydslRepositorySupport.md
   * https://github.com/leechangheelee/Querydsl-Inflearn/blob/main/Querydsl-지원-클래스-직접-만들기.md
+
+## **스프링 부트 2.6 이상, Querydsl 5.0 지원 방법**
+![image](https://user-images.githubusercontent.com/79301439/191451641-14d63bd5-f286-46a4-a1ba-30826a6e6212.png)
+
+  * https://github.com/leechangheelee/Querydsl-Inflearn/blob/main/스프링-부트-2.6-이상-Querydsl-5.0-지원-방법.md
