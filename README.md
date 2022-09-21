@@ -66,3 +66,4 @@
 
   * https://github.com/leechangheelee/Querydsl-Inflearn/blob/main/인터페이스-지원-QuerydslPredicateExecutor.md
   * https://github.com/leechangheelee/Querydsl-Inflearn/blob/main/Querydsl-Web-지원.md
+  * https://github.com/leechangheelee/Querydsl-Inflearn/blob/main/리포지토리-지원-QuerydslRepositorySupport.md
